@@ -1,4 +1,4 @@
-### In this file I will be updating my daily work logs related to research.
+### In this repository I will be updating my work related to research.
 
 
 - Started reading a research paper from medical image Analysis journal. Assigned by Supervisor. 
